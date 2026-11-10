@@ -1,0 +1,5 @@
+* text=auto eol=lf
+
+# These files are hashed as raw bytes. Preserve their original line endings.
+assets/reference.md -text
+references/design-quality.md -text

@@ -1,0 +1,8 @@
+{
+  "source": "RFC提案模板.md",
+  "quality_baseline": "story-ar-docx 2026-11-05",
+  "sha256": {
+    "assets/reference.md": "99afc3abb6c9f97cfc927070b020dd6005d27de4fa5178ea851eb4142b6c97f8",
+    "references/design-quality.md": "f75e862fe209c547f704711ea43a14c3a6266bec6cda47dc29c1095a2b4d26e1"
+  }
+}
